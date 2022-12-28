@@ -1,0 +1,32 @@
+h2{
+    font-style:cursive;
+    color:rgb(252, 235, 0);
+    text-align:center;
+    font-size: 60px;
+
+}
+p{
+    font-size:20px;
+    color:black;
+    font-style: oblique;
+
+}
+h3{
+    font-family:cursive;
+    color:rgb(90, 43, 109);
+    font-size:30px;
+}
+body{
+    background: url(https://images.pexels.com/photos/3127880/pexels-photo-3127880.jpeg);
+    background-color: rgb(255, 255, 194);
+   /* background-attachment: fixed;*/
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border-image-width: 100%;
+    background-size: 100%;
+    background-position: 100%;
+     background-color: #dfd7d7;
+     padding: 5px 20px 15px 20px;
+     border:2px solid black;
+     border-radius: 5px;
+}
